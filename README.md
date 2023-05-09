@@ -6,4 +6,4 @@ Usage:
 2. Save your openAI API Key in the file name openaiapikey.txt at ./data/ 
 3. Replace the youtube link after "youtubelink =  "  inside the notebook
 4. Run the cells. 
-5. During first run you may need to install the neccesary packages in the first cell.
+5. During first run you may need to install the neccesary packages in the first cell (just uncomment and run the cell).
